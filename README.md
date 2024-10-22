@@ -4,12 +4,10 @@
 ## **Generalidades**
 
 ### **1. Objetivo:**
-Pre-procesar un conjunto de datos extraidos del DANE **(nombrado: nac2022.csv )** con las  estadísticas asociadas a los nacimientos en Colombia para el año 2022. Este, corresponde a una 
-muestra del total de datos seleccionados en el planteamiento del presente proyecto (5 años) y serviran de base para explorar los modelos de regresión y clasificación
-a implementar. 
+Pre-procesar los conjuntos de datos extraidos del DANE para los años 2019,2020, 2021 y 2022 con las  estadísticas asociadas a los nacimientos en Colombia para los años en mención. 
 
 ### **2. Anotaciones importantes sobre el conjunto de datos**
-Se tiene una base de datos con 39 columnas y 573.625 filas con datos demograficos, sociales, geograficos y educativos asociados a los nacimientos de individuos en el territorio
+Se tiene una base de datos con 39 columnas y 2.462.601 filas con datos demograficos, sociales, geograficos y educativos asociados a los nacimientos de individuos en el territorio
 Colombiano, esta información se encuentra codificada de la siguiente manera: 
 
 ****
@@ -59,7 +57,7 @@ Colombiano, esta información se encuentra codificada de la siguiente manera:
    
 ****
     
-Url origen datos: **[nac2022](https://microdatos.dane.gov.co/index.php/catalog/807/data-dictionary/F32?file_name=nac2022)**
+Url origen datos: **(https://microdatos.dane.gov.co/index.php/catalog/DEM-Microdatos#_r=&collection=&country=&dtype=&from=1970&page=2&ps=&sid=&sk=&sort_by=title&sort_order=&to=2024&topic=&view=s&vk=)**
 
 ### **3. Variable predictora, dependiente o de respuesta para el modelo de regresión**
 
@@ -161,5 +159,5 @@ En este bloque de código se generan 2 Graficos, generados a partir de las varia
    
 **ELABORADO POR:** 
 
-    * LYDA VANESSA LARGO QUINTERO
+    * LIDA VANESSA LARGO QUINTERO
     * SEBASTIAN VALENCIA CADENA
