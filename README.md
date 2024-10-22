@@ -1,4 +1,4 @@
-# Análisis de reducción de tasas de natalidad en Colombia: un enfoque con técnicas de aprendizaje automático** 
+# **Análisis de reducción de tasas de natalidad en Colombia: un enfoque con técnicas de aprendizaje automático** 
 
 
 ## **Generalidades**
